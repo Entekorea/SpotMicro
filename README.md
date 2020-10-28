@@ -9,7 +9,7 @@ This is a repo that will cover the process of making the spotmicro.
 
 
 
-#Hardware
+# Hardware
 - Arduino
 - Jetson Nano
 - Lidar
