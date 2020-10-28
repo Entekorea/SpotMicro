@@ -15,6 +15,7 @@ This is a repo that will cover the process of making the spotmicro.
 - Arduino
 - Jetson Nano
 - Raspberry pi
+- ultrasonic wave Sensor
 - Lidar
 
 
