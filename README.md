@@ -1,4 +1,6 @@
 # SpotMicro
+SpotMicro는 강아지형 4족보행 로봇 Spot의 소형 버전입니다.
+
 SpotMicro is a micro version of the walking robotic dog Spot, created by Deok-Yeon Kim (https://www.instagram.com/kim.d.yeon/).
 Modeling Files: https://www.thingiverse.com/thing:3445283
 
@@ -9,7 +11,7 @@ This is a repo that will cover the process of making the spotmicro.
 
 
 
-# Hardware
+# HardWare
 - Arduino
 - Jetson Nano
 - Raspberry pi
@@ -17,5 +19,5 @@ This is a repo that will cover the process of making the spotmicro.
 
 
 
-# Software
+# SoftWare
 - ROS
